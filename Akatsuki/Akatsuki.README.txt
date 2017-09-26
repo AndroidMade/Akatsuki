@@ -1,0 +1,4 @@
+Nessun parametro aggiuntivo (Inserire W,w,White o white oppure B,b,Black o black)
+Nessuna risorsa aggiuntiva
+Linguaggio java, utilizzo libreria aima. JRE8 ma dovrebbe funzionare anche in JRE7
+Nessuna libreria aggiuntiva
